@@ -3,6 +3,7 @@ node_modules/
 
 # TypeScript output directory
 dist/
+.parcel-cache/
 
 # IDE/editor specific files
 .vscode/
